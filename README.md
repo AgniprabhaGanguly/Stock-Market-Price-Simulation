@@ -1,5 +1,3 @@
-# Stock-Market-Price-Simulation
-Data Simulation project by Agni and Adi using python's simpy library
 # 📈 Stock Market Price Simulation
 
 This project simulates stock market prices using data simulation techniques. It is built as part of a data simulation course project and aims to provide an understanding of how stock prices can be modeled using various mathematical and statistical methods.
